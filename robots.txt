@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://gabriellimakuiawinski-alt.github.io/Curri/sitemap.xml
